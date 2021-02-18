@@ -1,1 +1,4 @@
 //Que hago ayuda
+git fetch origin
+git checkout -b Magola05-patch-1 origin/Magola05-patch-1
+git merge main
